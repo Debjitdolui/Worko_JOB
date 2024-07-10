@@ -17,3 +17,15 @@
 - **Database**: my_json_server api with my github dummy data
 - 
 ## some screenshots of the projects 
+
+### Home Screen
+![Login Screen](assets/home.png)
+
+### Candidate Home
+![Candidate Home](assets/Chome.png)
+
+### Companies Home
+![companies ](assets/companies.png)
+
+### Mock Interview
+![Candidate Home](assets/mock_interview.png)
